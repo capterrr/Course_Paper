@@ -6,4 +6,21 @@ pub struct Contract {
 }
 
 impl Contract {
-    
+    pub fn create_new(drugstore_id: &Drugstore, item_id: &Item, count: i32) -> Self {
+        let id = Uuid::new_v4();
+        Self {
+            id,
+            drugstore_id,
+            item_id,
+        }
+    }
+
+    pub fn create(id: Uuid, drugstore_id: &Drugstore, item_id: &Item, count: i32) -> Self {
+        let result: Contract = Self {
+            id,
+            drugstore_id,
+            item_id,
+        };
+        result
+    }
+}
