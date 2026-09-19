@@ -1,0 +1,13 @@
+/home/kirill/Документы/Course_Paper/target/debug/deps/uuid-df3e5c7f2993993f.d: /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/lib.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/macros.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/builder.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/error.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/non_nil.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/parser.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/fmt.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/timestamp.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/external.rs
+
+/home/kirill/Документы/Course_Paper/target/debug/deps/libuuid-df3e5c7f2993993f.rmeta: /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/lib.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/macros.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/builder.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/error.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/non_nil.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/parser.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/fmt.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/timestamp.rs /home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/external.rs
+
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/lib.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/macros.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/builder.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/error.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/non_nil.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/parser.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/fmt.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/timestamp.rs:
+/home/kirill/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/uuid-1.26.1/src/external.rs:
