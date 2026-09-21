@@ -1,6 +1,6 @@
-D:\KursSimonov\target\debug\deps\KursSimonov-47cf9c0805bcda87.d: src\main.rs Cargo.toml
+D:\KursSimonov\Course_Paper\target\debug\deps\KursSimonov-47cf9c0805bcda87.d: src\main.rs Cargo.toml
 
-D:\KursSimonov\target\debug\deps\libKursSimonov-47cf9c0805bcda87.rmeta: src\main.rs Cargo.toml
+D:\KursSimonov\Course_Paper\target\debug\deps\libKursSimonov-47cf9c0805bcda87.rmeta: src\main.rs Cargo.toml
 
 src\main.rs:
 Cargo.toml:
